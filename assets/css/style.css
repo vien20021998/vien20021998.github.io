@@ -1,0 +1,16 @@
+.text-danger {
+    color: red;
+}
+
+.text-success{
+    color: green;
+}
+
+.badge {
+    min-width: 60px;
+}
+
+.w-140px {
+    width: 150px;
+}
+
